@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A9BC7543-F48E-4C9C-A769-DC3235449B73}") = "Loader Menu", "Loader\Loader Menu.csproj", "{550B48DC-45B5-4B7A-80AB-B5368B761744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550B48DC-45B5-4B7A-80AB-B5368B761744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550B48DC-45B5-4B7A-80AB-B5368B761744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550B48DC-45B5-4B7A-80AB-B5368B761744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550B48DC-45B5-4B7A-80AB-B5368B761744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C42CEE-779F-40F5-89CB-53EF44816B27}
+	EndGlobalSection
+EndGlobal
